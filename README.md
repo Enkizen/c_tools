@@ -4,6 +4,8 @@ Library in C to **match the functions/dependancies** I used to have with *Java a
 ### Tasks to complete
 
 ## a) Set up a way to speed up creation of library functions and objects without switching language
+https://fossil-scm.org/fossil/doc/trunk/src/makeheaders.html
+Auto making .h from .c.
 
 1)Map Function
 
