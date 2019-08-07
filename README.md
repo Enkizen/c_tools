@@ -1,8 +1,8 @@
 # c_tools
-Library in C to catch up with Java
+Library in C to match the functions/dependancies I used to have with Java
 
 Tasks to complete
-a) Set up a way to speed up creation of library functions and objects.
+a) Set up a way to speed up creation of library functions and objects without switching language
 
 1)Map Function
 
